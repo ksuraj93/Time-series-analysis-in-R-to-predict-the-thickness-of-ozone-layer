@@ -96,7 +96,7 @@ grid()
 summary(model1)
 ```
 ![](https://github.com/ksuraj93/Time-series-analysis-in-R-to-predict-the-thickness-of-ozone-layer/blob/master/pics/call%203.JPG)
-##Residual Analysis - Linear trend
+## Residual Analysis - Linear trend
 ```
 checkresiduals(rstudent(model1))
 ```
